@@ -1,1 +1,3 @@
-*.pro.user
+
+/target/
+**/*.rs.bk

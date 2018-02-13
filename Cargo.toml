@@ -1,0 +1,7 @@
+[package]
+name = "notations"
+version = "0.2.0"
+authors = ["Basile Desloges <basile.desloges@gmail.com>"]
+licence = "MIT"
+
+[dependencies]
